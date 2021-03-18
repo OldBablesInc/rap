@@ -1,0 +1,13 @@
+C:\Users\Dom\Desktop\Репозитории\rap\Sparrow-testProj\FinderFilesAnSys\FinderFilesAnSys\bin\Debug\netcoreapp3.1\FinderFilesAnSys.exe
+C:\Users\Dom\Desktop\Репозитории\rap\Sparrow-testProj\FinderFilesAnSys\FinderFilesAnSys\bin\Debug\netcoreapp3.1\FinderFilesAnSys.deps.json
+C:\Users\Dom\Desktop\Репозитории\rap\Sparrow-testProj\FinderFilesAnSys\FinderFilesAnSys\bin\Debug\netcoreapp3.1\FinderFilesAnSys.runtimeconfig.json
+C:\Users\Dom\Desktop\Репозитории\rap\Sparrow-testProj\FinderFilesAnSys\FinderFilesAnSys\bin\Debug\netcoreapp3.1\FinderFilesAnSys.runtimeconfig.dev.json
+C:\Users\Dom\Desktop\Репозитории\rap\Sparrow-testProj\FinderFilesAnSys\FinderFilesAnSys\bin\Debug\netcoreapp3.1\FinderFilesAnSys.dll
+C:\Users\Dom\Desktop\Репозитории\rap\Sparrow-testProj\FinderFilesAnSys\FinderFilesAnSys\bin\Debug\netcoreapp3.1\FinderFilesAnSys.pdb
+C:\Users\Dom\Desktop\Репозитории\rap\Sparrow-testProj\FinderFilesAnSys\FinderFilesAnSys\obj\Debug\netcoreapp3.1\FinderFilesAnSys.csprojAssemblyReference.cache
+C:\Users\Dom\Desktop\Репозитории\rap\Sparrow-testProj\FinderFilesAnSys\FinderFilesAnSys\obj\Debug\netcoreapp3.1\FinderFilesAnSys.AssemblyInfoInputs.cache
+C:\Users\Dom\Desktop\Репозитории\rap\Sparrow-testProj\FinderFilesAnSys\FinderFilesAnSys\obj\Debug\netcoreapp3.1\FinderFilesAnSys.AssemblyInfo.cs
+C:\Users\Dom\Desktop\Репозитории\rap\Sparrow-testProj\FinderFilesAnSys\FinderFilesAnSys\obj\Debug\netcoreapp3.1\FinderFilesAnSys.csproj.CoreCompileInputs.cache
+C:\Users\Dom\Desktop\Репозитории\rap\Sparrow-testProj\FinderFilesAnSys\FinderFilesAnSys\obj\Debug\netcoreapp3.1\FinderFilesAnSys.dll
+C:\Users\Dom\Desktop\Репозитории\rap\Sparrow-testProj\FinderFilesAnSys\FinderFilesAnSys\obj\Debug\netcoreapp3.1\FinderFilesAnSys.pdb
+C:\Users\Dom\Desktop\Репозитории\rap\Sparrow-testProj\FinderFilesAnSys\FinderFilesAnSys\obj\Debug\netcoreapp3.1\FinderFilesAnSys.genruntimeconfig.cache
